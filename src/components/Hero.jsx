@@ -6,7 +6,7 @@ function Hero() {
       <div className="flex max-w-screen-xl items-center justify-center mx-auto gap-x-24">
         <div className="my-36 flex flex-col">
           <h1 className="font-semibold text-6xl text-gray-900 font-poppins max-w-lg relative">
-            Post Your Digital Product and Get Discovered
+            Post Your Startup Idea and Get Discovered
           </h1>
           <div className="absolute -left-40 top-1 w-96 h-96 bg-[#B3AAFC]/40 rounded-full blur-3xl -z-10" />
           <div className="absolute -left-20 -top-28 w-96 h-96 bg-[#E841E1]/40 rounded-full blur-3xl -z-10" />

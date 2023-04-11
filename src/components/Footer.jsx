@@ -10,7 +10,7 @@ function Footer() {
           <p>
             <Link href="/">
               <p>
-                Product<span className="font-bold">Hunt</span>
+                Green<span className="font-bold">Back</span>
               </p>
             </Link>
           </p>
